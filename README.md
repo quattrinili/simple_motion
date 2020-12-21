@@ -18,3 +18,7 @@ Then, source and use the launch file:
 
 	source ros_workspace/install/setup.sh
 	roslaunch simple_motion simple_motion.launch
+
+## Attribution & Licensing
+
+Materials substantially authored by Alberto Quattrini Li. Copyright 2020 by Amazon.com, Inc. or its affiliates. Licensed MIT-0 - See LICENSE for further information
