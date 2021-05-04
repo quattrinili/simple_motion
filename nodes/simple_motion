@@ -30,7 +30,7 @@ class SimpleMotion():
 
         # Other variables.
         self.linear_velocity = linear_velocity # Constant linear velocity set.
-        self.angular_velocity = linear_velocity # Constant linear velocity set.
+        self.angular_velocity = angular_velocity # Constant angular velocity set.
         self._close_obstacle = False # Flag variable that is true if there is a close obstacle.
 
     def move_forward(self, distance):
